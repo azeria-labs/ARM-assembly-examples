@@ -1,2 +1,2 @@
 # ARM-assembly-examples
-Snippets from ARM assembly tutorials
+Assembly code from the examples in the tutorial 'Writing ARM Shellcode' (https://azeria-labs.com/writing-arm-shellcode/)
