@@ -1,4 +1,5 @@
-/* Code snipped from the tutorial 'Writing ARM Shellcode' (https://azeria-labs.com/writing-arm-shellcode/), first example containing null-bytes */
+/* execve() assembly code from the tutorial 'Writing ARM Shellcode' (https://azeria-labs.com/writing-arm-shellcode/), 
+first example containing null-bytes */
 
 .section .text
 .global _start
